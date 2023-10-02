@@ -8,7 +8,7 @@ A kind of large menu inspired by the Google TV interface. Also has a lock screen
 
 <br>
 
-A Pen created on CodePen.io. [Click here to explore](https://codepen.io/Nalini1998/pen/mdQvqjp/efa95b4c93cb9ec2081b9238911e7df9).
+A Pen created on CodePen.io. [Click here to explore](https://codepen.io/Nalini1998/live/mdQvqjp/efa95b4c93cb9ec2081b9238911e7df9).
 
 <br>
   
